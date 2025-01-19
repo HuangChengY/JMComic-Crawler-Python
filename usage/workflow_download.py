@@ -5,12 +5,6 @@ from jmcomic.cl import JmcomicUI
 jm_albums = '''
 
 474464
-301318
-368342
-145489
-301318
-
-
 
 '''
 
